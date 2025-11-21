@@ -1,0 +1,6 @@
+Keystore: android-sign/learn.p12
+StoreType: PKCS12
+KeyAlias: learn
+StorePassword: 437034f8c85bb903a8f9988058366ddc
+KeyPassword: 437034f8c85bb903a8f9988058366ddc
+Subject: /C=CN/ST=Guangdong/L=Shenzhen/O=LFK/OU=Dev/CN=LearnForKids
